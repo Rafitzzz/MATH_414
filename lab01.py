@@ -24,7 +24,7 @@ plt.plot(x_values, cdf_theoretical, "k-", lw=2, label="Theoretical cdf of U(0, 1
 
 # 2. Empirical cdf
 for n in sample_sizes:
-    # Generate n nrandom numbers from U(0,1)
+    # Generate n random numbers from U(0,1)
     random_data = uniform.rvs(loc=loc, scale=scale, size=n)
     
     # For empirical cdf, we sort x data (random numbers) and create an equispaced y-axis scaled from 1/n to 1
