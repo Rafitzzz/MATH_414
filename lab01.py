@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 # -------------------------------- PART (A) -----------------------------------
 # --- Parameters ---
 # Sample sizes
-sample_sizes = [25, 100, 10**3, 10**5] 
+sample_sizes = [45, 100, 10**3, 10**5] 
 
 # Uniform distribution parameters
 loc = 0
