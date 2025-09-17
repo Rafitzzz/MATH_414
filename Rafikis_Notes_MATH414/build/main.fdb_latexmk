@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1758120735.23302 "/home/rafiki/Documents/MATH_414/Rafikis_Notes_MATH414/main.tex" "build/main.pdf" "main" 1758120735.59068 0
+["pdflatex"] 1758128001.2489 "/home/rafiki/Documents/MATH_414/Rafikis_Notes_MATH414/main.tex" "build/main.pdf" "main" 1758128001.66453 0
   "/home/rafiki/Documents/MATH_414/Rafikis_Notes_MATH414/main.tex" 1758103930.30211 2612 c460f3bcab01880a9afdd9a107875048 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1755987285 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1755987285 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -195,11 +195,11 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1755987285 42087 b0f9697c952c8f5a8eede4134282cb0d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1757870295 5311557 9da84c45f5b388655502706482323571 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1757870255 2008254 665957eef637432e26bcf86e3ee5bc70 ""
-  "build/main.aux" 1758120735.55056 1368 22aa58aa3f1b89215f2cbe03e5ac8834 "pdflatex"
-  "build/main.out" 1758120735.55056 207 8c2668b5587804ccb639629dba86728b "pdflatex"
-  "build/main.toc" 1758120735.55193 117 87b495a1bdd2096411b64f2a71b69488 "pdflatex"
+  "build/main.aux" 1758128001.61789 1648 8132e8cbbef2f8d223e82ba51839cf3c "pdflatex"
+  "build/main.out" 1758128001.61789 441 db5070b2b5817326436de47d779654a2 "pdflatex"
+  "build/main.toc" 1758128001.6192 216 0ce3bf63eca8ba3fd4cd4667813fdc99 "pdflatex"
   "main.tex" 1758103930.30211 2612 c460f3bcab01880a9afdd9a107875048 ""
-  "sections/pseudo_rngs.tex" 1758120735.09693 10360 4b1cfc26ad913e5334382675d8de6a36 ""
+  "sections/pseudo_rngs.tex" 1758128001.10889 14396 d8e12570c1b7090ec233f0568dfeee0c ""
   (generated)
   "build/main.aux"
   "build/main.log"
